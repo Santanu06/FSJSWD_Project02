@@ -8,4 +8,4 @@ How to use background images in DOM using css i have leared in this project.Also
 ![badge](https://img.shields.io/badge/Time%20Taken-2%20Hr%2030%20Min-brightgreen)
 
 ### Live Link of this Project
-![ProjectLink](https://img.shields.io/badge/-Project%20Live%20Link-blue)
+[ProjectLink](https://fsjswdproject02.netlify.app/)
