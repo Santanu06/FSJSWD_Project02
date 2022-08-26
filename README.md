@@ -1,4 +1,4 @@
-# Project 02
+# Food Restaurant Home Page
 
 ## Santanu Kumar Sahu
 
@@ -9,3 +9,8 @@ How to use background images in DOM using css i have leared in this project.Also
 
 ### Live Link of this Project
 [ProjectLink](https://fsjswdproject02.netlify.app/)
+
+## Screen shorts of this Project
+
+### Web view
+![Web view](/screenshots/web-view.jpeg)
